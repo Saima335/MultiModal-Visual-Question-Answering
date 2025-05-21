@@ -1,0 +1,10 @@
+openai
+requests
+Pillow
+tqdm
+transformers
+torch
+numpy
+matplotlib
+scikit-learn
+opencv-python
